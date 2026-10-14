@@ -15,6 +15,7 @@ This project is a test automation framework built using Python and Pytest.
 - Selenium WebDriver
 - Git
 - GitHub
+- pytest.html
 
 ## Test Modules
 - Login
